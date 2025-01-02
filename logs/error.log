@@ -1,0 +1,1 @@
+{"address":"::1","code":"ECONNREFUSED","errno":-4078,"fatal":true,"level":"error","port":3306,"syscall":"connect","timestamp":"2025-01-02T08:07:58.844Z"}

@@ -1,0 +1,10 @@
+#remove node mocules
+node_modules
+#remove build folder
+build
+#remove dist folder
+dist
+#remove coverage folder
+coverage
+#remove .env file
+.env
