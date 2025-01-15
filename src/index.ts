@@ -22,7 +22,7 @@ app.use(morgan('combined', {
 }))
 app.use(cors())
 
-app.use('/', routes())
+app.use('/v1/api', routes())
 
 // TODO: Add error handling middleware
 

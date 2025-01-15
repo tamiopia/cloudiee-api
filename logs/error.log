@@ -1,1 +1,5 @@
 {"address":"::1","code":"ECONNREFUSED","errno":-4078,"fatal":true,"level":"error","port":3306,"syscall":"connect","timestamp":"2025-01-02T08:07:58.844Z"}
+{"level":"error","message":{"code":"ECONNREFUSED","fatal":true},"timestamp":"2025-01-03T13:59:35.475Z"}
+{"level":"error","message":{"code":"ECONNREFUSED","fatal":true},"timestamp":"2025-01-15T09:33:01.597Z"}
+{"level":"error","message":{"code":"ECONNREFUSED","fatal":true},"timestamp":"2025-01-15T09:33:41.250Z"}
+{"level":"error","message":{"code":"ECONNREFUSED","fatal":true},"timestamp":"2025-01-15T09:35:06.656Z"}
