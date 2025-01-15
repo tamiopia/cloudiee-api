@@ -1,7 +1,11 @@
 import { Router } from "express";
+// import userRoutes from "./users/userRoutes";
+
 
 export default function(): Router {
 	const router = Router()
+
+	// router.use("/users", userRoutes);
 
 	router.get("/", (req, res) => {
 		res.send("Hello, world!")
